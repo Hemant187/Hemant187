@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there, I'm Hemant! 👋
 
-<!--
-**Hemant187/Hemant187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Software Developer, specializing in Full stack Web Development. 
+Welcome to my GitHub profile! Here you'll find a collection of projects and contributions that reflect my interests and skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🌐 I work as a [Your Job Title] at [Your Company/Organization]. -->
+- 🚀 My expertise lies in Html ,Css and Javascript.
+- 📚 I'm constantly learning and exploring new technologies to stay up-to-date.
+- 💬 Ask me about Web development.
+
+
+
+## My Top Languages
+
+English
+Hindi
+Rajasthani
+
+## Connect with Me
+
+[![LinkedIn]((https://www.linkedin.com/in/hemant-web-developer-bb8640217/))
+[![Twitter](https://twitter.com/hemant187_)
+
+## Featured Projects
+
+- [Project 1](https://hemantsain.netlify.app/)
+- [Project 2](https://gymfittness.netlify.app/)
+
+
+## Let's Connect
+
+Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/hemant-web-developer-bb8640217/) or [Twitter](https://twitter.com/hemant187_). I'm always open to collaboration and interesting discussions!
+
+Happy coding! 🚀
