@@ -20,17 +20,17 @@ Rajasthani
 
 ## Connect with Me
 
-[![LinkedIn]((https://www.linkedin.com/in/hemant-web-developer-bb8640217/))
+[![LinkedIn]((https://www.linkedin.com/in/hemant187/))
 [![Twitter](https://twitter.com/hemant187_)
 
 ## Featured Projects
 
-- [Project 1](https://hemantsain.netlify.app/)
+- [Project 1](https://hemants.netlify.app/)
 - [Project 2](https://gymfittness.netlify.app/)
 
 
 ## Let's Connect
 
-Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/hemant-web-developer-bb8640217/) or [Twitter](https://twitter.com/hemant187_). I'm always open to collaboration and interesting discussions!
+Feel free to explore my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/hemant187) or [Twitter](https://twitter.com/hemant187_). I'm always open to collaboration and interesting discussions!
 
 Happy coding! 🚀
