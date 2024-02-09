@@ -20,8 +20,8 @@ Rajasthani
 
 ## Connect with Me
 
-[![LinkedIn]((https://www.linkedin.com/in/hemant187/))
-[![Twitter](https://twitter.com/hemant187_)
+ [LinkedIn](https://www.linkedin.com/in/hemant187)
+ [Twitter](https://twitter.com/hemant187_)
 
 ## Featured Projects
 
