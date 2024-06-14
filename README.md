@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here you'll find a collection of projects and cont
 ## About Me
 
 <!-- - 🌐 I work as a [Your Job Title] at [Your Company/Organization]. -->
-- 🚀 My expertise lies in Html ,Css and Javascript.
+- 🚀 My expertise lies in Node, Express, MongoDb, Ejs, React, Javascript, Html ,Css and more..
 - 📚 I'm constantly learning and exploring new technologies to stay up-to-date.
 - 💬 Ask me about Web development.
 
@@ -24,9 +24,15 @@ Rajasthani
  [Twitter](https://twitter.com/hemant187_)
 
 ## Featured Projects
-
-- [Project 1](https://hemants.netlify.app/)
-- [Project 2](https://gymfittness.netlify.app/)
+- [FlashCard Master](https://flashcard-9gyq.onrender.com/) - 
+Node.js, Express, Javascript, Ejs, & Passport.js - 
+Platform to help Study and Memorize information more effectivety
+Demo account: demo@demo.com
+Demo password: demodemo
+- [Social Media App](https://binary-upload-boom-exs7.onrender.com/) - 
+Javascript, Bootstrap, Node.js, Express, Ejs - Full Stack Social Media App
+Demo account: demo@demo.com
+Demo password: demodemo
 
 
 ## Let's Connect
